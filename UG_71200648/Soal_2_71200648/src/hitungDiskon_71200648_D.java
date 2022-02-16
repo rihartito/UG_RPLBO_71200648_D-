@@ -7,5 +7,5 @@ public class hitungDiskon_71200648_D {
         int jmlBarang = inp.nextInt();
         System.out.println("Masukan Harga : ");
         int hrg = inp.nextInt();
-        int total = jmlBarang*hrg;
+        int total = jmlBarang*hrg;}
 }
